@@ -3,7 +3,7 @@
 A helper function for reading in a kinesis stream into a channel. Does some
 basic attempts at resilliency. This is pre-alpha, not ready for production.
 
-```
+```go
 
 package main
 
